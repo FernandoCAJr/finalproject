@@ -86,6 +86,7 @@ p {
   text-decoration: none;
   color: #11999E;
   margin: 0 0;
+  padding: 20px 0;
 }
 
 .pro {
@@ -117,9 +118,9 @@ p {
 }
 
 .end-logo {
-  padding: 20px 0;
   color: #EAF6F6;
   font-size: 0.75rem;
+  padding: 20px 0;
 }
 
 .btn {
@@ -148,3 +149,4 @@ p {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
